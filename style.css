@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
 *{
     box-sizing: border-box;
     margin: 0%;
@@ -50,11 +51,61 @@ header{
     }
 
 .parent{
-    background-color: black;
+    background-image: url(images/image2.png);
+    background-image: cover;
+    background-size: 100%;
 }
 /*---start of service section*/
+.services-section{
+    background-color: #E1EBE6;
+    align-items: center;
+    min-height: 300px;
+}
+.services{
+    text-align: center;
+    font-size: 15px;
+    padding-top: 2%;
+}
+.services p{
+    font-style: italic;
+    font-size: 18px;
+    padding-bottom: 3%;
+    }
+    .services h2{
+        font-size: 30px;
+        padding-bottom: 15px;
+        color: #F19201;
+    }
+.service-opt{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+        
+}
+.one{
+    height: 300px;
+    border: none;
+    margin: 3%;
+    overflow: hidden;
+    background-color: #FFF;
+    align-items: center;
+    }
+ .one h3{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 25px;
+    margin: 15px;
+    padding: 3pc;
 
-
+}
+.one p{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 15px;
+    margin: 10px;
+    padding-top: 2px;
+    font-style: italic;
+}
 
 
 
