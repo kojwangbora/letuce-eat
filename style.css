@@ -146,12 +146,59 @@ header{
     font-weight: 400;
 }
 #chapati{
-    text-align-last: center;
-    margin: 100px;
     display: flex;
-    height: 20%;
-    width: 30%;
+    justify-content: flex-start;
+    height: 200px;
+    width: 450px;
     background-color: #FFF;
+    margin:15px;
+    padding: 30px;
+}
+#chapati-img{
+    height: 150px;
+    width: 150px;
+    background-image: url(images/iamge5.png);
+    background-size: cover;
+}
+#chapati-text{
+    text-align: center;
+
+}
+#chapati-text h6{
+    font-size: 24px;
+    font-weight: 400;
+    padding-top: 3px;
+    font-family: 'roboto';
+    padding-bottom: 5px;
+}
+#chapati-text p{
+    font-size: 13px;
+    text-align: left;
+    font-style: italic;
+    padding-left: 30px;
+}
+#chapati-text h4{
+    color: #F19201;
+    font-weight: 400;
+    padding-top: 10px;
+}
+.btn{
+    margin-top: 25px;
+    background-color:#E1EBE6;
+    font-size: 15px;
+    font-weight: 300;
+    border:none;
+    padding: 10px 30px;
+
+}
+#beef-img{
+    height: 150px;
+    width: 150px;
+    background-image: url(images/image4.png);
+    background-size: cover;
+}   
+
+}
 }
 .rw{
     display: flex;

@@ -1,4 +1,4 @@
-## The Burger palace
+## The Letuce Eat
 This a user friendly website that allowing customers to order thier meails (organic/non-GMO foods) from their comfort zones and receiving thier orders on time.
 ## Date of current version
 07/11/2021
