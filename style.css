@@ -281,14 +281,23 @@ header{
     color: #FFF;
     text-align: center;
 }
-.foot h9{
+.foot h3{
     font-style: italic;
- font-size: 25px;
+    font-size: 30px;
+    padding-top: 105;
+    font-weight: 500;
 }
-.ft{
-    color: #FFF;
+.foot p{
+padding-top: 30px;
+padding-bottom: 40px;
+font-weight: 500;
+}
+#fter{
     text-align-last: center;
-    padding-top: 20%;
+    padding-top: 20px;
+    background-image: none;
+    
+    border: black;
 }
 
 
