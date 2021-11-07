@@ -120,7 +120,6 @@ header{
     background-color:#E1EBE6;
   }
 
-
 .menu-sect h5{
     font-size: 20px;
     text-align: center;
@@ -137,7 +136,15 @@ header{
     padding-bottom: 2%;
     font-weight: 400;
 }
+.chapati{
+    border-radius: 30px;
+    text-align-last: center;
+    margin: 100px;
+    display: flex;
+    height: 20%;
+    width: 60%;
 
+}
 
 
 
@@ -164,9 +171,22 @@ header{
      background-image: url(images/image8.png);
      background-image: cover;
      background-size: 100%;
-
-
- }
+}
+.foot{
+    font-size: 50px;
+    font-weight: bold;
+    color: #FFF;
+    text-align: center;
+}
+.foot h9{
+    font-style: italic;
+ font-size: 25px;
+}
+.ft{
+    color: #FFF;
+    text-align-last: center;
+    padding-top: 20%%;
+}
 
 
 
