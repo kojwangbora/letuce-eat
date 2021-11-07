@@ -23,13 +23,16 @@
     text-decoration: none;
     color: #FFF;
     font-weight: bold;
-
 }
+
+
+
 header{
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 30px 5%;
+ 
   
 }
 .rows{
@@ -112,16 +115,8 @@ header{
     padding-top: 2px;
     font-style: italic;
 }
-.revs{
-    background-image: url(images/image1.png);
-    background-image: cover;
-    background-size: 35%;
-    background-repeat: no-repeat;
-    height: 700px;
-    text-align: right;
-    justify-content: right;
-    background-color: black;
-}
+
+
 .org-farm{
     font-size: 20px;
     text-align: center;
