@@ -106,8 +106,15 @@ header{
     padding-top: 2px;
     font-style: italic;
 }
+.revs{
+    display: flex;
+}
 
 
+.org-farm{
+    font-size: 40px;
+    align-items: center;
+    }
 
 
 
