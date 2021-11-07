@@ -23,6 +23,23 @@ header{
     padding: 30px 5%;
   
 }
+.rows{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:5%;
+}
+.order{
+    color: #fff;
+    margin-top: 30%;
+    margin-left: 10%;
+    padding: 15px 45px;
+    background-color: #F19201;
+    font-size: 20px;
+    border: none;
+    border-radius: 3px;
+}
+
 
 
 
