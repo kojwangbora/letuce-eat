@@ -8,13 +8,17 @@
  .log{
      display: flex;
      justify-content: space-between;
+     color: #FFF;
  }
- 
+
 .child ul li{
     display: inline-block;
     margin-left: 100px;
     position: relative;
     line-height: 70px;
+    outline: none;
+      
+
 }
 header{
     display: flex;
@@ -28,17 +32,27 @@ header{
     align-items: center;
     justify-content: space-between;
     padding:5%;
-}
+    }
+ 
+
 .order{
     color: #fff;
     margin-top: 30%;
-    margin-left: 10%;
+    margin-left: 5%;
     padding: 15px 45px;
     background-color: #F19201;
     font-size: 20px;
     border: none;
     border-radius: 3px;
 }
+.rows h1{
+    color: #fff;
+    }
+
+.parent{
+    background-color: black;
+}
+/*---start of service section*/
 
 
 
