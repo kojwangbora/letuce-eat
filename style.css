@@ -68,13 +68,15 @@ header{
 }
 .services p{
     font-style: italic;
-    font-size: 18px;
+    font-size: 13px;
     padding-bottom: 3%;
+    font-weight: 400;
     }
-    .services h2{
-        font-size: 30px;
-        padding-bottom: 15px;
-        color: #F19201;
+.services h2{
+    font-size: 24px;
+    padding-bottom: 15px;
+    color: #F19201;
+    font-weight: 500;
     }
 .service-opt{
     display: flex;
@@ -116,23 +118,26 @@ header{
 /*----Menu section*/
 .menu{
     background-color:#E1EBE6;
-}
-.menu-sect{
+  }
 
-}
+
 .menu-sect h5{
-font-size: 20px;
-text-align: center;
-color: #F19201;
-font-family:'roboto' sans-serif;
-font-weight: 400;
-padding-top: 2%;;
-}
+    font-size: 20px;
+    text-align: center;
+    color: #F19201;
+    font-family:'roboto' sans-serif;
+    font-weight: 400;
+    padding-top: 2%;
+    padding-bottom: 10px;
+    }
 .menu-sect p{
     font-style: italic;
     text-align: center;
     font-size: 15px;
+    padding-bottom: 2%;
+    font-weight: 400;
 }
+
 
 
 
