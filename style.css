@@ -10,8 +10,13 @@
      display: flex;
      justify-content: space-between;
      color: #FFF;
+    
  }
 
+ .log p{
+    background-color: #F19201;
+    
+ }
 .child ul li{
     display: inline-block;
     margin-left: 100px;
@@ -24,7 +29,16 @@
     color: #FFF;
     font-weight: bold;
 }
-
+.butn{
+    color: #fff;
+    margin-top: 30%;
+    margin-left: 5%;
+    padding: 15px 45px;
+    background-color: #F19201;
+    font-size: 15px;
+    border: none;
+        
+}
 
 
 header{
@@ -89,7 +103,7 @@ header{
     display: flex;
     justify-content: center;
     margin: 10px;
-        
+       
 }
 .one{
     height: 300px;
@@ -99,6 +113,15 @@ header{
     background-color: #FFF;
     align-items: center;
     }
+
+.one h2{
+    padding-top: 20px;
+    text-align: center;
+    background-color: #F19201;
+    border-radius: 50%;
+    height: 10px;
+    width: 20px;
+}
  .one h3{
     text-align: center;
     font-weight: bolder;
@@ -115,7 +138,13 @@ header{
     padding-top: 2px;
     font-style: italic;
 }
-
+#log-tag{
+    height: 700px;
+    width: 800px;
+    background-image: url(images/image1.png);
+    background-size: cover;
+    background-color: black;
+}
 
 .org-farm{
     font-size: 20px;
