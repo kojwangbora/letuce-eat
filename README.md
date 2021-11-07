@@ -1,7 +1,7 @@
 ## The Burger palace
-This a user friendly website that allowing customers to order thier meails (fast foods) from their comfort zones and receiving thier orders on time.
+This a user friendly website that allowing customers to order thier meails (organic/non-GMO foods) from their comfort zones and receiving thier orders on time.
 ## Date of current version
-08/10/2021
+07/11/2021
 ## Authors
 Developed by Kojwang E.B Ochieng
 ## Description
