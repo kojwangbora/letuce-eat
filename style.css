@@ -3,7 +3,7 @@
     box-sizing: border-box;
     margin: 0%;
     padding: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 200;
 }
  .log{
@@ -109,12 +109,73 @@ header{
 .revs{
     display: flex;
 }
-
-
 .org-farm{
     font-size: 40px;
     align-items: center;
-    }
+ }
+/*----Menu section*/
+.menu{
+    background-color:#E1EBE6;
+}
+.menu-sect{
+
+}
+.menu-sect h5{
+font-size: 20px;
+text-align: center;
+color: #F19201;
+font-family:'roboto' sans-serif;
+font-weight: 400;
+padding-top: 2%;;
+}
+.menu-sect p{
+    font-style: italic;
+    text-align: center;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /*footer section*/
+ .footer-sect{
+    min-height: 50%;
+     background-image: url(images/image8.png);
+     background-image: cover;
+     background-size: 100%;
+
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
