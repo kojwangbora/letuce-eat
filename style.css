@@ -78,7 +78,7 @@ header{
 }
 /*---start of service section*/
 .services-section{
-    background-color: #E1EBE6;
+    background-color: #E5E5E5;
     align-items: center;
     min-height: 300px;
 }
@@ -154,8 +154,7 @@ header{
  }
 /*----Menu section*/
 .menu{
-    background-color:#E1EBE6;
-
+    background-color: #E5E5E5;
   }
 
 .menu-sect h5{
