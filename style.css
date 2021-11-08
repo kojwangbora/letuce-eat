@@ -158,7 +158,6 @@ header{
 }
 .wrds h5{
     font-size: 24px;
-
 }
 
 
@@ -281,7 +280,7 @@ header{
 
  /*footer section*/
  .footer-sect{
-     height: 600px;
+    min-height: 50%;
      background-image: url(images/image8.png);
      background-image: cover;
      background-size: 100%;
@@ -298,28 +297,26 @@ header{
     padding-top: 105;
     font-weight: 500;
 }
-.p{
-    padding-top: 30px;
-    padding-bottom: 40px;
-    font-weight: 500;
-    
+.foot p{
+padding-top: 30px;
+padding-bottom: 40px;
+font-weight: 500;
 }
 #fter{
     text-align-last: center;
     padding-top: 20px;
     padding-bottom: 15px;
     margin-bottom: 20px;
-    border: none;
+   border: none;
 }
 
-#ft{
+footer{
     text-align: center;
     color: #FFF;
     font-size: 25px;
     justify-content: center;
     font-weight: 400;
     background-color: black;
-    background-repeat: no-repeat;
 }
 
 
