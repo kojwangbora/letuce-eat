@@ -139,20 +139,26 @@ header{
     padding-top: 2px;
     font-style: italic;
 }
-#log-tag{
+ /* review section */
+.revs{
+    display: flex;
+}
+#log-tag img{
     height: 700px;
-    width: 800px;
-    background-image: url(images/image1.png);
-    background-size: cover;
+}
+.wrds{
+    padding: 15%;
     background-color: black;
+    color: #FFF;
+}
+.wrds h4{
+    font-size: 35px;
+    padding-top: 0;
 }
 
-.org-farm{
-    font-size: 20px;
-    text-align: center;
-    color: #FFF;
-    
- }
+
+
+
 /*----Menu section*/
 .menu{
     background-color: #E5E5E5;
