@@ -18,6 +18,10 @@
     font-weight: bold;
     
  }
+ .child{
+     background-color: rgba(0, 0, 0, 0.411);
+ }
+ 
 .child ul li{
     display: inline-block;
     margin-left: 100px;
@@ -29,7 +33,21 @@
     text-decoration: none;
     color: #FFF;
     font-weight: bold;
+    text-decoration: none;
+
 }
+.child ul li a:hover{
+    color: #F19201;
+}
+.child ul li button{
+    font-size: 20px;
+    background-color: #F19201;
+    padding: 15px 20px;
+    border: none;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
 .butn{
     color: #fff;
     margin-top: 30%;
