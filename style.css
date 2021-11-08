@@ -14,7 +14,8 @@
  }
 
  .log p{
-    background-color: #F19201;
+    color: #F19201;
+    font-weight: bold;
     
  }
 .child ul li{
