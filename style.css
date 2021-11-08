@@ -294,11 +294,19 @@ font-weight: 500;
 #fter{
     text-align-last: center;
     padding-top: 20px;
-    background-image: none;
-    
-    border: black;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+   border: none;
 }
 
+footer{
+    text-align: center;
+    color: #FFF;
+    font-size: 25px;
+    justify-content: center;
+    font-weight: 400;
+    background-color: black;
+}
 
 
 
