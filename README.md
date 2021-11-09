@@ -1,5 +1,5 @@
 ## The Letuce Eat
-This a user friendly website that allowing customers to order thier meails (organic/non-GMO foods) from their comfort zones and receiving thier orders on time.
+This a user friendly website that allowing customers to order thier meails (organic/non-GMO foods) from their comfort zones and receiving their orders on time.
 ## Date of current version
 07/11/2021
 ## Authors
@@ -19,4 +19,4 @@ no known bugs
 ## Support and contact details
 *Reach me through email: kojwangbora254@gmail.com
 ### License
-*{Permission granted, free to any individual who would want to get a copy of this software and its document files.{year2021} **{Kojwang Elibora ochiend}**
+*{Permission granted, free to any individual who would want to get a copy of this software and its document files.{year2021} **{Kojwang Elibora ochieng}**
