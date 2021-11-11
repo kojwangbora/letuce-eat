@@ -203,9 +203,7 @@ header{
 }
  
 
-
-
-/*----Menu section*/
+/*----Menu section starts-----*/
 .menu{
     background-color:#E5E5E5;
   }
@@ -270,8 +268,8 @@ header{
     font-weight: 300;
     border:none;
     padding: 10px 30px;
-
 }
+
 #beef-img{
     height: 150px;
     width: 150px;
@@ -300,27 +298,9 @@ header{
     display: flex;
     justify-content: center;
 }
+/*---Menu section ends----*/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- /*footer section*/
+/*footer section*/
  .footer-sect{
     min-height: 50%;
      background-image: url(images/image8.png);
