@@ -174,9 +174,11 @@ header{
  }
 
 .txt{
-     margin: 15%;
+     margin: 7%;
      color: white;
      text-align: center;
+     width: 700px;
+     padding-top: 40px;
  }
 .txt h1{
      font-size: 50px;
@@ -195,7 +197,7 @@ header{
 .txt p{
     text-align: center;
     font-style: italic;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 400;
     padding: 30px;
 }
